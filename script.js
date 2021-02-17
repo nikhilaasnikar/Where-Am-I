@@ -194,5 +194,5 @@ const getCountryData = function (country) {
 btn.addEventListener('click', function () {});
 
 getCountryData(
-  prompt('Please enter your country and Please wait 10sec to load the data')
+  prompt('Please enter your country and wait for 10sec to load the data')
 );
